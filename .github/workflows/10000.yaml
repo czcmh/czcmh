@@ -1,4 +1,4 @@
-name: 中国电信签到
+name: 中国电信签到 
 
 on:
     workflow_dispatch:
