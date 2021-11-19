@@ -2,7 +2,7 @@
 
 ## Why
 
-通过下面的方法重新创建分支，同步代码
+通过下面的方法重新创建分支，同步代码 
 
 此方式亲测可行，请放心食用
 
@@ -56,7 +56,7 @@
 
 <img src="icon/new_repository_secret.png" alt="set_up_workflow" style="zoom:80%;" />
 
-`name`填`PAT`，`Value`填入上方申请到的PAT,保存即可
+`name`填`PAT`，`Value`填入上方申请到的PAT,保存即可保存
 
 ![image-20201111144804807](icon/set_sectet_pat.png)
 
